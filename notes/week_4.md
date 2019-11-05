@@ -19,10 +19,10 @@ _A weekly journal to keep track of the work I am doing towards each of the goals
 
 
 1. Build a simple web app with a database
-    - [Example](https://github.com/mattTea/bookmark_manager)
+    - [Example]((https://github.com/olkras03/Bookmarks-manager)
 
 2. Follow an effective debugging process for database applications
-    - [Example](https://github.com/mattTea/Portfolio/blob/master/processes/debugging.md)
+    - [Example]()
 
 3. Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
 
@@ -33,17 +33,16 @@ _A weekly journal to keep track of the work I am doing towards each of the goals
 _Things I've learnt or improved, and links to examples._
 
 - **Concrete things** (e.g. written a test or set up rspec)
-  - [SQL queries](https://github.com/mattTea/Portfolio/blob/master/projects/sql_zoo.md)
+  - [SQL queries](https://sqlzoo.net/)
 
 - **Concepts** (e.g. TDD or user stories)
-  - [Database migrations](https://github.com/mattTea/bookmark_manager)
+  - [Database migrations](https://github.com/olkras03/Bookmarks-manager)
 
 - **Processes** (e.g. debugging or problem breakdown -> TDD)
-  - [Debugging a web app with a database](https://github.com/mattTea/Portfolio/blob/master/processes/debugging.md)
+  - [Debugging a web app with a database]
 
 - **Behaviours** (or my mindset when approaching certain things)
-  - [Diagramming to break down and understand a problem](https://github.com/mattTea/bookmark_manager)
+  - [Diagramming to break down and understand a problem]((https://github.com/olkras03/Bookmarks-manager)
 
 ------
 
-[Raw notes](https://github.com/mattTea/Portfolio/blob/master/notes/week_4_raw_notes.md)
